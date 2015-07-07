@@ -17,7 +17,7 @@ A basic project template has been created in this repository, feel free to downl
 7. The data should be persisted in a mongo database
 8. The application should use express.js for the api layer (already installed as a dependency)
 9. (Optional) *Brownie Points for embelishment, adding features, or just making it super awesome.*
-10. (Optional) *Brownie Points for deploying it somewhere like heroku, or somewhere where we can play around with the application
+10. (Optional) *Brownie Points for deploying it somewhere like heroku, or somewhere where we can play around with the application*
 
 ## Persistence and Models
 
